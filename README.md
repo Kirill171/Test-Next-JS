@@ -1,4 +1,14 @@
-## https://kirill171.github.io/next-js-landing-page/
+# My landing page with Next.js and tailwind css
+
+## Deploy - https://kirill171.github.io/next-js-landing-page/
+
+__Approximate view of the application__
+
+![image](./layout/mobile-375px.png)
+![image](./layout/tablet-768px.png)
+![image](./layout/desktop-1200px.png)
+
+---
 
 First, run the development server:
 
