@@ -4,11 +4,11 @@
 
 # __Approximate view of the application__
 
-- ## View from mobile:
+- View from mobile:
 ![image](./layout/mobile-375px.png)
 
-- ## View from tablet:
+- View from tablet:
 ![image](./layout/tablet-768px.png)
 
-- ## View from desktop:
+- View from desktop:
 ![image](./layout/desktop-1200px.png)
